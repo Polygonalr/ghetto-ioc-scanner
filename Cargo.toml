@@ -1,0 +1,9 @@
+[package]
+name = "ghetto-antirs"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+entropy-lib = "1.0.2"
+regex = "1.8.1"
+winapi = "0.3.9"
